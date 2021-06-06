@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on completing devchallenges on devchallenges.io
-- 🌱 I’m currently learning frontend development with Angular
-- 📫 How to reach me: marvinrusinek@gmail.com
+- 🌱 I practice learning frontend development with the Angular framework
+- 🔭 I’m currently working on web developer challenges from devchallenges.io
+- 📫 Feel free to reach me at marvinrusinek@gmail.com
