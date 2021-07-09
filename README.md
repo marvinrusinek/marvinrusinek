@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I am learning frontend development with the Angular framework.
-- 🔭 I’m working on web developer challenges from <a href="https://www.devchallenges.io" target="_blank">devChallenges.io</a>
+- 🌱 I am learning frontend development with the Angular framework by working on web development challenges from DevChallenges and FrontendMentor.
+- 🔭 I am also dabbling in backend development with Microsoft SQL Server.
 - 📫 Feel free to reach me at marvinrusinek@gmail.com
