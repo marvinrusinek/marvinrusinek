@@ -2,5 +2,5 @@
 
 - 🌱 I utilize the Angular framework to create innovative single-page applications.
 - :brain: I am also proficient in Java and C# ASP.NET MVC/WebForms.
-- 🔭 I create beautiful websites using Elementor.
-- 📫 Reach out to me at marvinrusinek@gmail.com
+- 🔭 I create websites with Elementor.
+- 📫 Reach out at marvinrusinek@gmail.com
