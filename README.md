@@ -1,4 +1,9 @@
 ### Hi, I'm Marvin! 👋
 
-- 🌱 I utilize the Angular framework with TypeScript to create innovative single-page applications.
-- 📫 Contact me: <a href="mailto:marvinrusinek@gmail.com">E-mail</a> / <a href="https://www.linkedin.com/in/marvin-rusinek/">LinkedIn</a>
+Angular Developer specializing in Angular 20, TypeScript, RxJS, Signals, and reactive frontend architecture.
+
+🚀 Building scalable single-page applications with modern Angular patterns, performance optimization, and modular service-driven design.
+
+🌱 Passionate about clean architecture and modern Angular development.
+
+📫 Contact me: <a href="mailto:marvinrusinek@gmail.com">E-mail</a> / <a href="https://www.linkedin.com/in/marvin-rusinek/">LinkedIn</a>
