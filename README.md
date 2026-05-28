@@ -7,3 +7,5 @@ Angular Developer specializing in Angular 20, TypeScript, RxJS, Signals, and rea
 🌱 Passionate about clean architecture, UI/UX, and modern Angular development.
 
 📫 Contact me: <a href="mailto:marvinrusinek@gmail.com">E-mail</a> / <a href="https://www.linkedin.com/in/marvin-rusinek/">LinkedIn</a>
+
+💼 Open to Angular Developer opportunities.
