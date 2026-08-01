@@ -1,6 +1,6 @@
 ### Hi, I'm Marvin! 👋
 
-Angular Developer specializing in Angular 21, TypeScript, RxJS, Signals, and reactive web applications.
+Angular Developer specializing in Angular 20-22, TypeScript, RxJS, Signals/Signal Forms, and reactive web applications.
 
 🚀 Building scalable single-page applications using modern Angular patterns, performance optimization, modular service-driven design, and reactive state management.
 
