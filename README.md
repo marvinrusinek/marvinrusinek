@@ -1,4 +1,4 @@
-### Hi, I'm Marvin! 👋
+### Hey, I'm Marvin! 👋
 
 Angular Developer focused on building modern, high-performance web applications with Angular 22, TypeScript, RxJS, Signals, and Signal Forms.
 
