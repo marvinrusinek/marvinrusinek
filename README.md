@@ -1,11 +1,13 @@
-### Hey, I'm Marvin! 👋
+### Hey, I’m Marvin! 👋
 
-Angular Developer focused on building modern, high-performance web applications with Angular 22, TypeScript, RxJS, Signals, and Signal Forms.
+I’m an Angular Developer building modern, accessible, and high-performance web applications with **Angular 22, TypeScript, RxJS, Signals, Signal Forms, and Angular Material**.
 
-🚀 I enjoy developing scalable, maintainable applications using standalone APIs, reactive programming, modular architecture, and clean, service-driven design. I'm passionate about creating intuitive user experiences while continuously improving performance, code quality, and maintainability.
+🚀 I focus on creating scalable, maintainable applications using standalone APIs, reactive patterns, modular architecture, and clean, service-driven design.
 
-🧪 I have a strong interest in modern Angular development, application architecture, testing, accessibility, performance optimization, and building production-ready software.
+🛠️ My interests include Angular architecture, full-stack development, automated testing, accessibility, application security, and performance optimization.
 
-💼 Currently seeking full-time Angular Developer opportunities in NYC (hybrid) or remote.
+💡 I’m currently developing an <a href="https://github.com/marvinrusinek/angular-22-quiz-app" target="_blank">Angular quiz and interview-preparation platform</a> featuring topic-based quizzes, timed assessments, performance insights, weak-area practice, and backend-managed sessions. <strong><a href="https://marvinrusinek.github.io/angular-22-quiz-app" target="_blank">View Live Demo</a></strong>
 
-📫 Contact me: <a href="mailto:marvinrusinek@gmail.com">E-mail</a> / <a target="_blank" href="https://www.linkedin.com/in/marvin-rusinek/">LinkedIn</a>
+💼 I’m seeking a **full-time Angular Developer position** in New York City (hybrid) or remote.
+
+📫 **Connect with me:** [Email](mailto:marvinrusinek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marvin-rusinek/)
