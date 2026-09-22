@@ -6,8 +6,8 @@ I’m an Angular Developer building modern, accessible, and high-performance web
 
 🛠️ My interests include Angular architecture, full-stack development, automated testing, accessibility, application security, and performance optimization.
 
-💡 I’m currently developing an <a href="https://github.com/marvinrusinek/angular-22-quiz-app" target="_blank">Angular quiz and interview-preparation platform</a> featuring topic-based quizzes, timed assessments, performance insights, weak-area practice, and backend-managed sessions. <strong><a href="https://marvinrusinek.github.io/angular-22-quiz-app" target="_blank">View Live Demo</a></strong>
+💡 I’m currently developing an <strong><a href="https://github.com/marvinrusinek/angular-22-quiz-app" target="_blank">Angular quiz and interview-preparation platform</a></strong> featuring topic-based quizzes, timed assessments, performance insights, weak-area practice, and backend-managed sessions. <strong><a href="https://marvinrusinek.github.io/angular-22-quiz-app" target="_blank">View Live Demo</a></strong>
 
 💼 I’m seeking a **full-time Angular Developer position** in New York City (hybrid) or remote.
 
-📫 **Connect with me:** [Email](mailto:marvinrusinek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marvin-rusinek/)
+📫 **Connect with me:** <strong>[Email](mailto:marvinrusinek@gmail.com)</strong> · <strong>[LinkedIn](https://www.linkedin.com/in/marvin-rusinek/)</string>
