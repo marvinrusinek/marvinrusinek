@@ -10,4 +10,4 @@ I’m an Angular Developer building modern, accessible, and high-performance web
 
 💼 I’m seeking a **full-time Angular Developer position** in New York City (hybrid) or remote.
 
-📫 **Connect with me:** <strong>[Email](mailto:marvinrusinek@gmail.com)</strong> · <strong>[LinkedIn](https://www.linkedin.com/in/marvin-rusinek/)</string>
+📫 **Connect:** <strong>[Email](mailto:marvinrusinek@gmail.com)</strong> · <strong>[LinkedIn](https://www.linkedin.com/in/marvin-rusinek/)</string>
