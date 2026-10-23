@@ -4,7 +4,7 @@ I’m an Angular Developer building modern, accessible, and high-performance web
 
 🚀 I focus on creating scalable, maintainable applications using standalone APIs, reactive patterns, modular architecture, and clean, service-driven design.
 
-🛠️ My interests include Angular architecture, full-stack development, automated testing, accessibility, application security, and performance optimization.
+🛠️ My interests include Angular architecture, full-stack development with Java (Spring Boot) and .NET (C#), automated testing, accessibility, application security, and performance optimization.
 
 💡 I’m currently developing an <strong><a href="https://github.com/marvinrusinek/angular-22-quiz-app" target="_blank">Angular quiz and interview-preparation platform</a></strong> featuring topic-based quizzes, timed assessments, performance insights, weak-area practice, and backend-managed sessions. <strong><a href="https://marvinrusinek.github.io/angular-22-quiz-app" target="_blank">View Live Demo</a></strong>
 
